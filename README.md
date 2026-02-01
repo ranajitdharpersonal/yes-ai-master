@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/Stack-Gemini%203%20(Primary%20Brain)%20%E2%80%A2%20Llama%203%20(Failover)%20%E2%80%A2%20Qwen%20(Survival)-orange?style=for-the-badge" alt="Multi-Model Stack" />
         <br>
         <img src="https://img.shields.io/badge/Copyright-%C2%A9%202026%20Ranajit%20Dhar-blue?style=for-the-badge" alt="Copyright" />
-        <a href="YOUR_STREAMLIT_APP_URL_HERE" target="_blank">
+        <a href="https://yesaimaster-ranajitdhar.streamlit.app" target="_blank">
   <img src="https://img.shields.io/badge/Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
 </a>
       </p>
@@ -141,8 +141,8 @@ YES Ai adapts its personality and tools based on the selected mode:
 * **Validation:** Citations, facts, and structured reports.
 * **X-Factor:** No hallucinations—only grounded truth.
 
-### 🛡️ SENTINEL MODE (Royal Purple Theme) 🆕
-> *🧪 Sentinel Mode is an experimental research module showcasing how Gemini-driven agents can extend into future-grade security domains.*
+### 🛡️ SENTINEL MODE (Royal Purple Theme)
+> **🧪 Sentinel Mode is an experimental research module showcasing how Gemini-driven agents can extend into future-grade security domains.**
 * **Role:** Quantum Security Specialist.
 * **Capabilities:** Generates **Kyber-1024** Quantum-Safe encryption keys.
 * **Validation:** Strict compiler-style checks for security compliance.
@@ -219,11 +219,19 @@ We don't just generate code; we provide the environment to run it.
 
 ## 🛠️ Installation & Setup For Judges & Reviewers (Optional: Run Locally)
 
-*Note: The Judges can test the system directly via the **Live Demo Link** above. This section is for technical verification only.*
+<div align="center">
+  <br>
+  <a href="https://yesaimaster-ranajitdhar.streamlit.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Skip_Installation_&_Try_Live_Demo-Click_Here-FF4B4B?style=for-the-badge" height="35" alt="Live Demo"/>
+  </a>
+  <br><br>
+  <em>Note: The Judges can test the system directly via the <strong>Live Demo Link</strong> above.<br>This section is for technical verification only.</em>
+  <br><br>
+</div>
 
 1.  **Clone & Install**
     ```bash
-    git clone [https://github.com/ranajit-dhar/yes-ai-master.git](https://github.com/ranajit-dhar/yes-ai-master.git)
+    git clone https://github.com/ranajitdharpersonal/yes-ai-master
     pip install -r requirements.txt
     ```
 
@@ -231,6 +239,8 @@ We don't just generate code; we provide the environment to run it.
     The system requires a Multi-Model backend. If running locally, you need a `.env` file with:
     * `GOOGLE_API_KEY` (Primary Brain)
     * `GROQ_API_KEY` (Failover Brain)
+    * `HF_TOKEN`(Survival Brain)
+    * `SERPAPI_API_KEY`: **[Optional]** Required for **Analyst Mode** (Live Web Search).
 
 3.  **Run**
     ```bash
