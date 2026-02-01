@@ -27,9 +27,9 @@
 
 It is a **multi‑agent, multi‑brain, self‑healing, auto‑failover AI operating system** designed to think, recover, explain itself, and adapt in real‑time. Unlike traditional wrappers that crash when an API fails, YES AI is built to survive.
 
-> **At its core, YES AI Master Edition is architected around Gemini 3 as its primary reasoning and orchestration engine.**
+ **At its core, YES AI Master Edition is architected around Gemini 3 as its primary reasoning and orchestration engine.**
 
-> ❝ One prompt in. A coordinated AI workforce out. ❞
+ ❝ One prompt in. A coordinated AI workforce out. ❞
 
 
  ## ⚡ Judge TL;DR (30-Second Overview)
