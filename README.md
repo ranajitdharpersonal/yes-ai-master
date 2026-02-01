@@ -142,7 +142,7 @@ YES Ai adapts its personality and tools based on the selected mode:
 * **X-Factor:** No hallucinations—only grounded truth.
 
 ### 🛡️ SENTINEL MODE (Royal Purple Theme)
-> **🧪 Sentinel Mode is an experimental research module showcasing how Gemini-driven agents can extend into future-grade security domains.**
+ **🧪 Sentinel Mode is an experimental research module showcasing how Gemini-driven agents can extend into future-grade security domains.**
 * **Role:** Quantum Security Specialist.
 * **Capabilities:** Generates **Kyber-1024** Quantum-Safe encryption keys.
 * **Validation:** Strict compiler-style checks for security compliance.
@@ -253,6 +253,6 @@ We don't just generate code; we provide the environment to run it.
 * *Solo Developer · Commerce Grad turned AI Engineer · YES AI Systems Designer*
 * **Copyright © 2026. All rights reserved.**
 
-> **⭐ Final Note:**
-> This project was intentionally designed to explore the upper limits of what Gemini-powered agent systems can become.
-> **Not perfect. But resilient.**
+**⭐ Final Note:**
+This project was intentionally designed to explore the upper limits of what Gemini-powered agent systems can become.
+**Not perfect. But resilient.**
