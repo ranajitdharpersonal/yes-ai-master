@@ -34,12 +34,12 @@ It is a **multi‑agent, multi‑brain, self‑healing, auto‑failover AI opera
 
 > ## ⚡ Judge TL;DR (30-Second Overview)
 >
-> * 🧠 **Not a Chatbot** — A multi-agent AI operating system.
-> * 🔄 **Self-Healing by Design** — Auto-retry & evaluator loops.
-> * 🛡️ **Unbreakable AI** — Gemini-first reasoning with intelligent auto-failover (Llama → Qwen).
-> * 🔮 **Unified Pipeline** — Chain Dev, Analyst, Creator & Sentinel modes.
-> * 🧬 **Quantum-Ready** — Sentinel Mode generates Kyber-1024 safe keys.
-> * 📊 **Glass-Box Observability** — Live "Brain View", Real-time Cost & Token tracking.
+> * **🧠 Not a Chatbot** — A multi-agent AI operating system.
+> * **🔄 Self-Healing by Design** — Auto-retry & evaluator loops.
+> * **🛡️ Unbreakable AI** — Gemini-first reasoning with intelligent auto-failover (Llama → Qwen).
+> * **🔮 Unified Pipeline** — Chain Dev, Analyst, Creator & Sentinel modes.
+> * **🧬 Quantum-Ready** — Sentinel Mode generates Kyber-1024 safe keys.
+> * **📊 Glass-Box Observability** — Live "Brain View", Real-time Cost & Token tracking.
 
 ---
 
